@@ -41,6 +41,7 @@ Left Arrow or A: Move paddle left.
 Right Arrow or D: Move paddle right.
 Space: Launch the ball from the paddle or reset the game after victory/game over.
 Escape: Quit the game.
+![image](https://github.com/user-attachments/assets/6fd4aa4c-c8b7-4e36-aea6-dc2f4c1f7684)
 
 Project Structure
 
