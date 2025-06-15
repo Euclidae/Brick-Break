@@ -4,7 +4,6 @@
 // Update, TODO complete
 // N.B be as clean as possible. Will reference this code for future rust SDL3 shenanigans.
 // Shout out to this guy -> https://github.com/vhspace/sdl3-rs 
-// P.S. Canvas is the Renderer
 
 use sdl3::event::Event;
 use sdl3::keyboard::{Keycode, Scancode};

@@ -1,7 +1,18 @@
 [package]
 name = "Brick_Breaker"
-version = "0.1.0"
+description = "Brick_Breaker Game"
+repository = "https://github.com/Euclidae/Brick-Break"
+documentation = "https://docs.rs/sdl3/latest/sdl3/"
+version = "0.2.0"
+license = "MIT"
+authors = [
+    "Euclidae"
+]
+keywords = ["graphics", "engine", "cross-platform", "input", "audio"]
+categories = ["rendering", "api-bindings", "game-engines", "multimedia"]
+readme = "README.md"
 edition = "2024"
 
 [dependencies]
-sdl3 = "0.14.31"
+sdl3 = { version = "0.14.1", features = ["build-from-source"] }
+
